@@ -1,0 +1,8 @@
+On branch maintence
+Your branch is up to date with 'origin/maintence'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	duong.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
